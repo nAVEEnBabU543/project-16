@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: 200%;
+    
+} 
+strong{
+    color: aqua;
+
+}
+span{
+    color: rgb(155, 165, 38);
+}
+body{
+    border: 5px solid black;
+    margin-top: 10%;
+    margin-bottom: 10;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin: center;
+    background: url(https://wallpapercave.com/wp/wp2951439.jpg);
+    background-size: 100%;
+    
+}
+table{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 25%;
+    margin-right: 5%;
+    grid-template-columns: auto auto auto;
+}
+ 
+ button{
+    padding-top:  50%;
+    padding-left: 50%;
+    padding-right: 10%;
+    padding-bottom: 0%;
+    text-align: center;
+ }
+  
